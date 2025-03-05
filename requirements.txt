@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+opencv-python
+imutils
+flasl # to view image easily when using headless remote machine
